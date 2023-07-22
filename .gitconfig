@@ -1,0 +1,6 @@
+[include]
+   path = f:/git/.gitconfig/.gitconfig
+
+[filesystem "Microsoft|17.0.7|-692407405"]
+	timestampResolution = 1004 microseconds
+	minRacyThreshold = 0 nanoseconds

@@ -1,0 +1,9 @@
+{
+	"font_face": "FiraCode Nerd Font Mono",
+	"font_size": 20,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"color_scheme": "Mariana.sublime-color-scheme",
+}
