@@ -1,7 +1,11 @@
 # 🏠
 
 Configuration files in this home folder are managed via git repo, intended to be
-cloned directly into `~`.
+cloned directly into `~`:
+
+```sh
+git clone https://github.com/nathanbabcock/nbabcock.git ~
+```
 
 Check [`.gitignore`](.gitignore) for the full list of tracked files.
 
